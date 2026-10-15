@@ -2,6 +2,8 @@
 
 Приложения и сайты — по вашим правилам.
 
+Начальный набор: ChatGPT (сайт), YouTube, Telegram (приложение), Gemini и Speedtest. Остальные соединения по умолчанию идут напрямую.
+
 **[Скачать установщик для Windows x64](https://github.com/nkorolev12/vpn-releases/releases/latest/download/LiniyaVPN-Setup.exe)**
 
 ![Установка Линии VPN](assets/installer-v0.3.0.png)
